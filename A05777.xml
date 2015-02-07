@@ -5725,7 +5725,10 @@ ribus: &amp; bn<g ref="char:cmbAbbrStroke">̄</g>dictus fructus ve<g ref="char:c
             <head>Ad laudes de beata maria.</head>
             <div type="subpart">
                <head>¶ Ad laudes</head>
-               <figure/>
+               <p>
+                  <pb n="xxxij" facs="tcp:5816:32"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶How mary the moder and vyrgyn</l>
                   <l>Uysyted Elizabeth wyf of zachary</l>
@@ -6051,7 +6054,8 @@ ab omnibus semper muniamur aduersis. In qua viuis et regnas deus. Per omnia secu
                      <desc>•</desc>
                   </gap>ele archangelo. <abbr>an.</abbr>
                </head>
-               <figure/>
+               <p>
+                  <figure/>Michael archangele paradisi preposite ve<g ref="char:EOLhyphen"/>ni in adiutorium populo dei. <abbr>vꝰ</abbr> In con<g ref="char:EOLhyphen"/>spectu angelorum psallam tibi deus meꝰ.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -6105,7 +6109,11 @@ ab omnibus semper muniamur aduersis. In qua viuis et regnas deus. Per omnia secu
                      <desc>〈◊〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <figure/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndreas christi famulꝰ: dignus deo apo<g ref="char:EOLhyphen"/>stolus: germanus petri &amp; in passione sociꝰ.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -6495,7 +6503,10 @@ virtutum prouehi: vbi visionis tue claritatem me<g ref="char:EOLunhyphen"/>reamu
             </div>
             <div type="subpart">
                <head>¶Ad primam de cruce.</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:42"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6655,7 +6666,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶Ad tertiam de cruce.</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:45"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶How Pylate wenyng to delyuer our lorde</l>
                   <l>Unto the people / Ecce homo / sayd he.</l>
@@ -6778,7 +6792,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶Ad sextam de cruce.</head>
-               <figure/>
+               <p>
+                  <pb n="xlvij" facs="tcp:5816:47"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶Ad the houre of sext Cryst was crucified</l>
                   <l>Beaten and nayled with grete myschefe</l>
@@ -6953,7 +6970,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶ Ad nonam de cruce</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:50"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶At the houre of noone Cryst his lyfe leste</l>
                   <l>And to his fader his soule behyght</l>
@@ -6993,7 +7013,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶ Ad vesperas de beata maria.</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:51"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶How Mary and Ioseph with Iesu were fayne</l>
                   <l>In to Egypt / for socour to fle</l>
@@ -7129,7 +7152,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶Ad vesperas de cruce</head>
-               <figure/>
+               <p>
+                  <pb n="liij" facs="tcp:5816:53"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶ How our lorde at the tyme of euen song</l>
                   <l>By Ioseph and Nichodeme was take downe</l>
@@ -7160,7 +7186,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
             <div type="subpart">
                <head>¶Ad completorium de beata maria.</head>
-               <figure/>
+               <p>
+                  <pb n="liiij" facs="tcp:5816:54"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶How mary assumpted was aboue the skyes</l>
                   <l>By her sone as souerayne lady</l>
@@ -7430,7 +7459,10 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s.</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:58"/>
+                  <figure/>
+                  <seg rend="decorInit">G</seg>Aude virgo <abbr>mr</abbr> chri<g ref="char:EOLhyphen"/>sti / que per aurem concepi<g ref="char:EOLunhyphen"/>sti: gabriele nuncio.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -7471,7 +7503,13 @@ ministraui. Deo gratias <gap reason="illegible" resp="#PDCC" extent="1 letter">
                <head>¶<gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> spiritualia</head>
-               <figure/>
+               <p>
+                  <figure/>GAude flore virgi<g ref="char:EOLunhyphen"/>nali: honore<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> specia<g ref="char:EOLhyphen"/>li: transce<g ref="char:cmbAbbrStroke">̄</g>dens splen<g ref="char:EOLhyphen"/>diferum. Angelorum principatu<g ref="char:cmbAbbrStroke">̄</g>: &amp; sancto<g ref="char:EOLhyphen"/>rum decoratum digni<g ref="char:EOLunhyphen"/>tate numerum.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -7890,7 +7928,38 @@ dijs / captione &amp; vinculis / laqueis &amp; telis / iaculis ar<g ref="char:EO
          <div type="part">
             <head>¶De sanctissima trinitate.</head>
             <pb facs="tcp:5816:63"/>
-            <figure/>
+            <p>
+               <figure/>SAncta tri<g ref="char:EOLunhyphen"/>nitas vnꝰ deꝰ mi<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ere nobꝭ Obta<g ref="char:cmbAbbrStroke">̄</g> &amp; <abbr>gliosa</abbr> trinitas mi<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ere nobis. O sacra et summa &amp; sempiterna trinitas / misere<g ref="char:cmbAbbrStroke">̄</g> nobis. O vera &amp; <abbr>gliosa</abbr> &amp; inef<g ref="char:EOLhyphen"/>fabilis trinitas / &amp; vna deitas / su<g ref="char:cmbAbbrStroke">̄</g>ma &amp; inco<g ref="char:cmbAbbrStroke">̄</g>pa<g ref="char:EOLhyphen"/>rabilis bonitas / eterna et suauissima claritas / triu<g ref="char:cmbAbbrStroke">̄</g> ꝑsona<expan>
+                  <am>
+                     <g ref="char:abrum"/>
+                  </am>
+                  <ex>rum</ex>
+               </expan> i<g ref="char:cmbAbbrStroke">̄</g>diuisa ma<g ref="char:EOLunhyphen"/>iestas. O <abbr>pr</abbr> bone / o fili<g ref="char:EOLunhyphen"/>pie / o <abbr>sps</abbr> paraclite. O lume<g ref="char:cmbAbbrStroke">̄</g> indeficie<g ref="char:cmbAbbrStroke">̄</g>s vnꝰ deus: cuiꝰ opus vita / cuiꝰ amor <abbr>gra</abbr> / cuiꝰ conte<g ref="char:cmbAbbrStroke">̄</g>platio <abbr>glia</abbr> est oi<g ref="char:cmbAbbrStroke">̄</g>m scto<g ref="char:cmbAbbrStroke">̄</g>
+               <expan>
+                  <am>
+                     <g ref="char:abrum"/>
+                  </am>
+                  <ex>rum</ex>
+               </expan>. Te <abbr>dne</abbr> in<g ref="char:EOLhyphen"/>uoco / te adoro / te toto cordis affectu nu<g ref="char:cmbAbbrStroke">̄</g>c &amp; <abbr>i<g ref="char:cmbAbbrStroke">̄</g>sclm</abbr> 
+               <abbr>bn</abbr> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ico. Alpha &amp; oo / agyos / emanuel / scte<g ref="char:cmbAbbrStroke">̄</g> deꝰ / scte<g ref="char:cmbAbbrStroke">̄</g> for<g ref="char:EOLhyphen"/>tis / scte<g ref="char:cmbAbbrStroke">̄</g> &amp; immortalis misere<g ref="char:cmbAbbrStroke">̄</g> nobis. Meme<g ref="char:cmbAbbrStroke">̄</g>to mei deus meꝰ in bonu<g ref="char:cmbAbbrStroke">̄</g>: &amp; da ꝓpitiꝰ venia<g ref="char:cmbAbbrStroke">̄</g> ne pereat opꝰ manuu<g ref="char:cmbAbbrStroke">̄</g> tuaru<g ref="char:cmbAbbrStroke">̄</g>. Tu es creator meꝰ / tu esspes mea / <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u es salutare meu<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>dne</abbr>: ex quo oi<g ref="char:cmbAbbrStroke">̄</g>a / per que<g ref="char:cmbAbbrStroke">̄</g> oi<g ref="char:cmbAbbrStroke">̄</g>a / in quo omnia: tibi honor &amp; gloria. Amen. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
             <p>DEus qui suꝑbis resistis &amp; humilibꝰ das gra<g ref="char:EOLhyphen"/>tiam: tu michi succurre de hac tribulatione &amp; angustia: q<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> credo ꝙ nullus est <abbr>q</abbr> possit resistere tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7998,7 +8067,14 @@ dijs / captione &amp; vinculis / laqueis &amp; telis / iaculis ar<g ref="char:EO
                   <desc>〈…〉</desc>
                </gap>
             </head>
-            <figure/>
+            <p>
+               <figure/>BExiaspar: rex Melchior / rex balthasar. Rogo vos per singula nomina: rogo vos ꝑ san ctam trinitate<g ref="char:cmbAbbrStroke">̄</g> / rogo per rege<g ref="char:cmbAbbrStroke">̄</g> regum que<g ref="char:cmbAbbrStroke">̄</g> vagien tem in cunis videre me<g ref="char:EOLhyphen"/>ruistis: vt compatiami<g ref="char:EOLhyphen"/>ni tribulationum mea<g ref="char:EOLhyphen"/>rum hodie et interceda<g ref="char:EOLhyphen"/>tis ꝓ me ad <abbr>dnm</abbr> cuiꝰ de<g ref="char:EOLhyphen"/>siderio exules facti estꝭ. Et sicut vos per angeli cam annunciationem de reditu ab herode eripuit: ita me liberare dignetur ab omnibus inimicis meis visibilibus &amp; inuisibili<g ref="char:EOLunhyphen"/>bus / a subitanea et improuisa morte et ab oi<g ref="char:cmbAbbrStroke">̄</g> mala
+<pb n="lxiiij" facs="tcp:5816:64"/>
+confusine / mala fama &amp; omni periculo corporis et anime. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reges tharsis &amp; insule munera offerent. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. Reges arabum &amp; saba dona adducent. Oremus.</p>
             <p>DEus illuminator omnium ge<g ref="char:cmbAbbrStroke">̄</g>
                <g ref="char:EOLunhyphen"/>tium da populis tuis ꝑpetua pace gau<g ref="char:EOLhyphen"/>dere: &amp; illud lumen splendidum infunde cordibus nostris quod trium magorum mentibus inspirasti: <abbr>dnm nrm</abbr> iesum <abbr>xpm</abbr> filium tuum. Qui. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -8351,7 +8427,8 @@ panes die ac nocte: &amp; co<g ref="char:cmbAbbrStroke">̄</g>uerte me totaliter
                   </gap> duplicauit anno d<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>. M. cccclxxviij.</head>
-               <figure/>
+               <p>
+                  <figure/>ADoro te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> in cruce pen<g ref="char:EOLunhyphen"/>dente<g ref="char:cmbAbbrStroke">̄</g> &amp; corona<g ref="char:cmbAbbrStroke">̄</g> spinea<g ref="char:cmbAbbrStroke">̄</g> in capite portante<g ref="char:cmbAbbrStroke">̄</g>: depre<g ref="char:EOLhyphen"/>cor te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> vt tua crux liberet me ab ange<g ref="char:EOLunhyphen"/>lo percutiente. Amen. Pater noster. Aue ma.</p>
                <p>ADoro te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> i<g ref="char:cmbAbbrStroke">̄</g> cruce vulne<g ref="char:EOLunhyphen"/>ratu<g ref="char:cmbAbbrStroke">̄</g> / felle &amp; aceto pota<g ref="char:EOLhyphen"/>tum: deprecor te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> vt vulnera tua sint remedium anime mee. Amen. Pater <abbr>nr</abbr>. Aue ma.</p>
                <p>ADoro te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu christe in sepulchro positu<g ref="char:cmbAbbrStroke">̄</g> / myrrha &amp; aromatibꝰ conditu<g ref="char:cmbAbbrStroke">̄</g>: deprecor te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> vt mors tua sit vita mea. Amen. <abbr>Pr.</abbr> Aue.</p>
                <p>ADoro te dn<g ref="char:cmbAbbrStroke">̄</g>e iesu <abbr>xpe</abbr> descendente<g ref="char:cmbAbbrStroke">̄</g> ad inferos libera<g ref="char:cmbAbbrStroke">̄</g>te<g ref="char:cmbAbbrStroke">̄</g>
@@ -8704,7 +8781,17 @@ fac mitesit oi<g ref="char:cmbAbbrStroke">̄</g>bus amen. <gap reason="illegible
                <head>¶ <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>.</head>
-               <figure/>
+               <p>
+                  <figure/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omine deus noster cuius gratia beatꝰ martinus tres mortuos resusci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auit: con<g ref="char:EOLunhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de propitius vt per eius interuentum a morte resuscitari mereamur. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ecce sacer<g ref="char:EOLunhyphen"/>dos magnus qui in diebꝰ suis placuit deo.</p>
                <p>Et inuentus est iustus. Oremus.</p>
                <p>
                   <pb n="lxxj" facs="tcp:5816:71"/>DEus <abbr>q</abbr> co<g ref="char:cmbAbbrStroke">̄</g>spicis <choice>
@@ -8963,7 +9050,16 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                </head>
                <head>
                   <pb n="lxxiij" facs="tcp:5816:73"/>Oratio.</head>
-               <figure/>
+               <p>
+                  <figure/>O Blyssed tri<g ref="char:EOLunhyphen"/>nite the fader the sone &amp; the holy goost thre perso<g ref="char:EOLhyphen"/>nes &amp; one god. I byleue with my herte &amp; co<g ref="char:cmbAbbrStroke">̄</g>fesse with my mouth all tat holy chyrche byleueth &amp; holdeth of the asmo<g ref="char:EOLhyphen"/>che as a good catholyk &amp; crystman ought to do &amp; byleue of the / &amp; I pro<g ref="char:EOLunhyphen"/>test here before ty maie<g ref="char:EOLunhyphen"/>ste that I wyll lyue &amp; dye in thys fayth &amp; con<g ref="char:EOLunhyphen"/>tinuall my lyfe &amp; in knowlege the my god fader / &amp; maker of all the worlde. I thy poore creature sub<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cte / &amp; seruau<g ref="char:cmbAbbrStroke">̄</g>te do make to the fayth &amp; homage / of my body / &amp; of my soule whiche. I holde of the no<g ref="char:EOLunhyphen"/>bly as of my souerayne lorde &amp; god with all the goodes naturall spirituall &amp; te<g ref="char:cmbAbbrStroke">̄</g>porall / that I haue &amp; that euer I had &amp; also that I entende to haue of the in this worlde here &amp; in that other and with all my herte I remercy &amp; tanke the: &amp; in signe of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ognysaunce and knowlege I paye vnto the thys lytell tribute on mornynge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>&amp; on euenynge / that is that I adoure &amp; worshyppe the with herte &amp; mou<g ref="char:EOLunhyphen"/>the in fayth / in hope &amp; in charyte with this lytell oryson &amp; prayere wiche all onely apparteyneth to thy blyssed maieste / sygnory &amp; diuinyte: &amp; humbly I requyre the of thre thynges. The fyrst is mercy and forgyuenesse of as many euylles and vylanye synnes as I haue done &amp; commysed in tyme passed agaynst thy wyll. The seco<g ref="char:cmbAbbrStroke">̄</g>de it please the to gyue me grace that I maye serue the &amp; acco<g ref="char:cmbAbbrStroke">̄</g>plysshe thy co<g ref="char:cmbAbbrStroke">̄</g>maundeme<g ref="char:cmbAbbrStroke">̄</g>tes with out to tourne and fall in to
+<pb facs="tcp:5816:74"/>
+deedly synne. The thyrde is that at my dethe &amp; me grete nede thou socoure me &amp; gyue me grace that I haue remembraunce of thy blyssed passyon and co<g ref="char:cmbAbbrStroke">̄</g>tricyon of my synnes / &amp; that I may dye in thys holy fayth / &amp; fynably may come to the glory eter<g ref="char:EOLhyphen"/>nall with all the sayntes of heuen. Amen.</p>
                <p>Lorde god all myghty all seyn<g ref="char:EOLhyphen"/>ge all thynges knowynge wysdome &amp; sa<g ref="char:EOLunhyphen"/>pience of all I poore synner make thys day in despyte of all the fende of hell protestacyon that yf by auenture ony temptacyon / decepcyon or variacyon comynge by sorowe peyne of sykenes<g ref="char:EOLunhyphen"/>se: or by ony feblenesse of body or by ony other oc<g ref="char:EOLhyphen"/>casyon what som euer it be. I sall or declyne in pe<g ref="char:EOLhyphen"/>ryll of my soule or preiudice of my helte<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>or in er<g ref="char:EOLhyphen"/>rour of the holy fayth catholyke i<g ref="char:cmbAbbrStroke">̄</g> whiche<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9057,7 +9153,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                      <desc>〈◊〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb n="lxxv" facs="tcp:5816:75"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9149,7 +9248,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                   </gap> &amp; semp<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r: &amp; in secu<g ref="char:EOLhyphen"/>la seculorum amen.</p>
-               <figure/>
+               <p>
+                  <pb n="lxxvj" facs="tcp:5816:76"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9242,7 +9344,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                   </gap>icut erat in principio &amp; nu<g ref="char:cmbAbbrStroke">̄</g>c et semper: &amp; in secula seculorum ame<g ref="char:cmbAbbrStroke">̄</g>. Psalm .<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>l.</p>
-               <figure/>
+               <p>
+                  <pb n="lxxvij" facs="tcp:5816:77"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶ Kyng dauyd by gaad was admonysshed</l>
                   <l>For to chuse warre / famyn / or pestylence</l>
@@ -9306,7 +9411,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                   </gap>lmus .i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</p>
-               <figure/>
+               <p>
+                  <pb n="lxxviij" facs="tcp:5816:78"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9465,7 +9573,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>xxix.</p>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:80"/>
+                  <figure/>
+               </p>
                <q>
                   <l>¶By counsell of the prophete Nathan</l>
                   <l>Dauyd promyse vnto Bersabee</l>
@@ -9517,7 +9628,10 @@ holy blessyd moder / &amp; to all the holy co<g ref="char:cmbAbbrStroke">̄</g>p
                   </gap>icut erat in principio et nunc &amp; semper: et in se<g ref="char:EOLhyphen"/>cula seculorum amen. Psalmus .<gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
                   </gap>.</p>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:81"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -12068,7 +12182,10 @@ vt &amp; corda nostra ma<g ref="char:cmbAbbrStroke">̄</g>datis tuis dedita / &a
                <l>But now ye must come trace on our daunce</l>
                <l>All adams kynde be ordeyned to dye.</l>
             </q>
-            <figure/>
+            <p>
+               <pb n="xc" facs="tcp:5816:90"/>
+               <figure/>
+            </p>
             <q>
                <l>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -12757,7 +12874,10 @@ luceat eis. a<g ref="char:cmbAbbrStroke">̄</g>n, Dirige domine deus meus in con
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb n="xcvj" facs="tcp:5816:96"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13091,7 +13211,10 @@ luceat eis. a<g ref="char:cmbAbbrStroke">̄</g>n, Dirige domine deus meus in con
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb n="xcix" facs="tcp:5816:99"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13118,7 +13241,10 @@ luceat eis. a<g ref="char:cmbAbbrStroke">̄</g>n, Dirige domine deus meus in con
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb n="c" facs="tcp:5816:100"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13394,7 +13520,10 @@ tuam et salutare tuum dixi.</p>
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:103"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13437,7 +13566,10 @@ tuam et salutare tuum dixi.</p>
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:105"/>
+                  <figure/>
+               </p>
                <q>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -16790,7 +16922,45 @@ sed propter maximam misericordiam tuam / ac dul cissimam pietatem / exaudi me in
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:129"/>
+                  <figure/>MIssꝰ est ga<g ref="char:EOLunhyphen"/>briel angelus ad maria<g ref="char:cmbAbbrStroke">̄</g> vir<g ref="char:EOLhyphen"/>gine<g ref="char:cmbAbbrStroke">̄</g> desponsata<g ref="char:cmbAbbrStroke">̄</g> ioseph: nu<g ref="char:cmbAbbrStroke">̄</g>cians ei verbum. Aue maria gratia plena domi<g ref="char:EOLunhyphen"/>nus tecu<g ref="char:cmbAbbrStroke">̄</g>. Missus est ga<g ref="char:EOLhyphen"/>briel angelꝰ ad mariam virgine<g ref="char:cmbAbbrStroke">̄</g>. Aue maria gra<g ref="char:EOLhyphen"/>tia plena. Missus est ga<g ref="char:EOLhyphen"/>briel. Aue maria. Impe<g ref="char:EOLhyphen"/>ratrix reginaru<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s te. Laus sanctaru<g ref="char:cmbAbbrStroke">̄</g> anima<expan>
+                     <am>
+                        <g ref="char:abrum"/>
+                     </am>
+                     <ex>rum</ex>
+                  </expan>. dn<g ref="char:cmbAbbrStroke">̄</g>s te. Uera saluatrix earu<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s te. Excelle<g ref="char:cmbAbbrStroke">̄</g>tis<g ref="char:EOLhyphen"/>sima regina celo<expan>
+                     <am>
+                        <g ref="char:abrum"/>
+                     </am>
+                     <ex>rum</ex>
+                  </expan>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Ueneranda dn<g ref="char:cmbAbbrStroke">̄</g>a ange<g ref="char:EOLunhyphen"/>loru<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Omniu<g ref="char:cmbAbbrStroke">̄</g> plena virtutu<g ref="char:cmbAbbrStroke">̄</g>. do. t. Lilium conuallium. do. te. Mediatrix dei &amp; hominum. d. t. Indeficiens gaudiu<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Rosa sine spina. d. t. Stella matutina. do. te. Uirgo dei inuiolata. do. te. Uirgo innupta. do. t. Uirgo incorrupta. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uirgo deo grata. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uirgo ante partu<g ref="char:cmbAbbrStroke">̄</g>. do. t. Uirgo in partu. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uirgo post partu<g ref="char:cmbAbbrStroke">̄</g>. do. te. Splendor inextinguibilis. do. te. Uirgo inestima<g ref="char:EOLhyphen"/>bilis. do. te. Uirgo immarcescibilis. do. tecu<g ref="char:cmbAbbrStroke">̄</g>. Uitis vuas germinans. do. te. Uirgo inco<g ref="char:cmbAbbrStroke">̄</g>parabilis. do. t. Uirgo cui no<g ref="char:cmbAbbrStroke">̄</g> est nec erit similis. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uirgo generosa. do. te. Uirgo speciosa. do. tecum. Uirgo pulchra. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Fons misericordie cum omni co<g ref="char:EOLunhyphen"/>pia. do. te. Uirgo eximia. do. te. Uirgo pia. dn<g ref="char:cmbAbbrStroke">̄</g>s te. Uirgo mater sine ruga. do. tecu<g ref="char:cmbAbbrStroke">̄</g>. Uirgo dulcis ma<g ref="char:EOLunhyphen"/>ria. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Laus prophetica. do. te. Salomonis fabrica. d. te. Mater dei &amp; virgo vnica dei filia. d. t. Laus habitationis glorie dei. dn<g ref="char:cmbAbbrStroke">̄</g>s. te. Hortus con<g ref="char:EOLhyphen"/>clusus. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g> Fons signatus. do. tecu<g ref="char:cmbAbbrStroke">̄</g>. Aque vi<g ref="char:EOLhyphen"/>ue puteus. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Paradisus cum pomoru<g ref="char:cmbAbbrStroke">̄</g> fru<g ref="char:EOLhyphen"/>ctibus. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uenter rore celesti rigatus. do. t.
+<pb n="cxxxj" facs="tcp:5816:129"/>
+Eternitatis domus. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Ueteris &amp; noui testa<g ref="char:EOLunhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>ti armariu<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Spiritus sancti sacrariu<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Que angelo nunciante virgo concepisti. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Aue maria. Poste<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> semel. Que angelo nuncia<g ref="char:cmbAbbrStroke">̄</g>te virgo concepifti. Et post<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a adhu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aue maria. Uera virgo &amp; mater. dn<g ref="char:cmbAbbrStroke">̄</g>s tecum. Mater dei veri &amp; veri hominis. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Mater iesu christi fi<g ref="char:EOLunhyphen"/>lij vnigeniti. do. te. Mater misericordie. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Mater pietatis. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Mater veritatis. do. te. Mater charitatis. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Decus mulieru<g ref="char:cmbAbbrStroke">̄</g>. d. te. Mater orphanoru<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Consolatio desolato<g ref="char:EOLhyphen"/>ru<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Compassio afflictorum. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Sa<g ref="char:EOLunhyphen"/>lus omniu<g ref="char:cmbAbbrStroke">̄</g> in tesperantiu<g ref="char:cmbAbbrStroke">̄</g>. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Arca dei. do. te. Templu<g ref="char:cmbAbbrStroke">̄</g> dei. do. te. Sacrariu<g ref="char:cmbAbbrStroke">̄</g> spiritussancti. do. te. Reclinatoriu<g ref="char:cmbAbbrStroke">̄</g> iesu christi. do. te. Luminare celi. d. t. Sponsa dei. do. te. Prophetaru<g ref="char:cmbAbbrStroke">̄</g> oraculu<g ref="char:cmbAbbrStroke">̄</g>. do. te. Dei vmbraculu<g ref="char:cmbAbbrStroke">̄</g>. do. te. Pastoris tabernaculum. do. te. Co<g ref="char:cmbAbbrStroke">̄</g>pletum est in te consilium. do. te. Uera virgo &amp; mater que filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deum &amp; veru<g ref="char:cmbAbbrStroke">̄</g> ho<g ref="char:EOLunhyphen"/>minem qui angelo nunciante conceptus est. do. te. Uera virgo &amp; mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui pro nobis ex te natus est. d. te. Uera virgo &amp; mater <abbr>q</abbr> filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui ꝓ nobis inter vlnas simeonis sanctissimi in templo receptus est. do. te. Uera vir<g ref="char:EOLunhyphen"/>go &amp; mater <abbr>q</abbr> filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> &amp; verum homine<g ref="char:cmbAbbrStroke">̄</g> qui pro nobis cesus est. do. te. Uera virgo et mater que filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deum &amp; veru<g ref="char:cmbAbbrStroke">̄</g> hominem qui pro nobis spinis coronatus est. d. te. Uera virgo &amp; mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui ꝓ nobis clauis affixus est. d. t. Uera virgo &amp; mater <abbr>q</abbr> filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti verum deu<g ref="char:cmbAbbrStroke">̄</g> et verum homine<g ref="char:cmbAbbrStroke">̄</g> qui ꝓ nobis in cruce pe<g ref="char:cmbAbbrStroke">̄</g>dens vir<g ref="char:EOLunhyphen"/>ginem matre<g ref="char:cmbAbbrStroke">̄</g> virgini co<g ref="char:cmbAbbrStroke">̄</g>mendauit dicens. Mulier ecce filius tuus. Deinde ad discipulum / ecce mater tue. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uera virgo &amp; mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei ge<g ref="char:EOLhyphen"/>nuisti veru<g ref="char:cmbAbbrStroke">̄</g> deum et veru<g ref="char:cmbAbbrStroke">̄</g> hominem qui pro nobis
+<pb facs="tcp:5816:130"/>
+in cruce pendens exclamauit dice<g ref="char:cmbAbbrStroke">̄</g>s: heli heli lama<g ref="char:EOLhyphen"/>zabathani: &amp; inclinato capite tradidit spiritu<g ref="char:cmbAbbrStroke">̄</g>. d. te. Uera virgo et mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti ver<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> hoi<g ref="char:cmbAbbrStroke">̄</g>em qui pro nobis immolatꝰ est. d. t. Uera virgo et mater <abbr>q</abbr> filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> hoi<g ref="char:cmbAbbrStroke">̄</g>em cuius latus lancca perforatum est: et continuo exiuit sanguis &amp; aqua in redemptione<g ref="char:cmbAbbrStroke">̄</g> animaru<g ref="char:cmbAbbrStroke">̄</g> nostra<expan>
+                     <am>
+                        <g ref="char:abrum"/>
+                     </am>
+                     <ex>rum</ex>
+                  </expan> &amp; in remissione<g ref="char:cmbAbbrStroke">̄</g> peccatoru<g ref="char:cmbAbbrStroke">̄</g> nostro rum ꝓ salute mundi ad vita<g ref="char:cmbAbbrStroke">̄</g> eterna<g ref="char:cmbAbbrStroke">̄</g>. d. t. Uera vir<g ref="char:EOLhyphen"/>go &amp; mater <abbr>q</abbr> filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> &amp; verum homine<g ref="char:cmbAbbrStroke">̄</g>: cuius corpus per ioseph depositu<g ref="char:cmbAbbrStroke">̄</g> est / &amp; in sindone mu<g ref="char:cmbAbbrStroke">̄</g>da inuolutu<g ref="char:cmbAbbrStroke">̄</g>. do. t. Uera virgo &amp; mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> hoi<g ref="char:cmbAbbrStroke">̄</g>em cuius corpus in linteis cum aromatibus in monumento nouo positu<g ref="char:cmbAbbrStroke">̄</g> est. do. te. Uera virgo &amp; mater <abbr>q</abbr> filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> &amp; veru<g ref="char:cmbAbbrStroke">̄</g> hominem qui pro no<g ref="char:EOLhyphen"/>bis sepultus est. do te. Uera virgo et mater <abbr>q</abbr> filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deum &amp; veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui deus et homo tertia die resurrexit a mortuis. do. te. Uera virgo et mater <abbr>q</abbr> filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et ve<g ref="char:EOLunhyphen"/>ru<g ref="char:cmbAbbrStroke">̄</g> hoi<g ref="char:cmbAbbrStroke">̄</g>em qui deus &amp; homo primo beate marie mag<g ref="char:EOLunhyphen"/>dalene / postea discipulis apparuit. do. te. Uera vir<g ref="char:EOLunhyphen"/>go et mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genuisti verum deu<g ref="char:cmbAbbrStroke">̄</g> &amp; ve<g ref="char:EOLhyphen"/>rum homine<g ref="char:cmbAbbrStroke">̄</g> qui deus &amp; homo cu<g ref="char:cmbAbbrStroke">̄</g> peregrinis cena<g ref="char:EOLhyphen"/>uit. do. te. Uera virgo et mater que filiu<g ref="char:cmbAbbrStroke">̄</g> dei genui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui deus et homo vide<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>tibus galileis ad celos asce<g ref="char:cmbAbbrStroke">̄</g>dit. do. te. Uera virgo &amp; mater que filium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deum &amp; verum hominem qui deus et homo ascendit super oe<g ref="char:cmbAbbrStroke">̄</g>s ce<g ref="char:EOLhyphen"/>los / &amp; preparauit tibi castissime eius matri locu<g ref="char:cmbAbbrStroke">̄</g> im<g ref="char:EOLunhyphen"/>mortalitatꝭ. d. t. Uera virgo et mater <abbr>q</abbr> filiu<g ref="char:cmbAbbrStroke">̄</g> dei ge<g ref="char:EOLunhyphen"/>nuisti verum deu<g ref="char:cmbAbbrStroke">̄</g> et veru<g ref="char:cmbAbbrStroke">̄</g> homine<g ref="char:cmbAbbrStroke">̄</g> qui deus &amp; homo ad dexteram dei sede<g ref="char:cmbAbbrStroke">̄</g>s spiritu<g ref="char:cmbAbbrStroke">̄</g> paraclitum discipu<g ref="char:EOLhyphen"/>lis suis misit. dn<g ref="char:cmbAbbrStroke">̄</g>s tecu<g ref="char:cmbAbbrStroke">̄</g>. Uera virgo &amp; mater que fi<g ref="char:EOLhyphen"/>lium dei genuisti veru<g ref="char:cmbAbbrStroke">̄</g> deu<g ref="char:cmbAbbrStroke">̄</g> et verum hominem qui deus et homo ve<g ref="char:cmbAbbrStroke">̄</g>turꝰ est iudicare viuos &amp; mortuos et seculum per ignem. dominus tecum. Amen.</p>
                <p>
                   <pb n="cxxxij" facs="tcp:5816:130"/>
                   <abbr>
@@ -17369,7 +17539,16 @@ et anime mee: vt deus per tuam orationem digne<g ref="char:EOLhyphen"/>tur michi
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <figure/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ux &amp; decus hispanie sanctissime ia cobe apostole: qui inter apostolos pri<g ref="char:EOLhyphen"/>matum tenes primus eorum martyrio laureatus. O singulare presidium qui meruisti videre redemptorem nostrum adhuc mortalem in deitate transforma<g ref="char:EOLunhyphen"/>tum: exaudi preces seruorum tuorum et intercede pro nostra omnium<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> salu<g ref="char:EOLunhyphen"/>te alleluia. Ora pro nobis beate iacobe. Ut digni efficiamur promis<g ref="char:EOLunhyphen"/>sio nibus christi. Oremus.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -17437,7 +17616,8 @@ et anime mee: vt deus per tuam orationem digne<g ref="char:EOLhyphen"/>tur michi
                      <desc>〈◊〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <figure/>GAude barbara bea<g ref="char:EOLunhyphen"/>ta / summe pollens in do<g ref="char:EOLunhyphen"/>ctrina / angeli mysterio.</p>
                <p>Gaude virgo deo grata / que ba<g ref="char:EOLhyphen"/>ptistam imitata es / in vite stadio.</p>
                <p>Gaude cum te visitauit christꝰ vi<g ref="char:EOLunhyphen"/>ta: &amp; curauit plagas actu proprio.</p>
                <p>Gaude <choice>
@@ -17469,7 +17649,13 @@ et anime mee: vt deus per tuam orationem digne<g ref="char:EOLhyphen"/>tur michi
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:138"/>
+                  <figure/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Atiuitas tua dei geni<g ref="char:EOLhyphen"/>trix <abbr>vgo</abbr> gau<g ref="char:EOLhyphen"/>dium annunciauit vni<g ref="char:EOLhyphen"/>uerso mundo: ex te enim ortus est sol iustitie chri<g ref="char:EOLhyphen"/>stus deus noster: qui sol<g ref="char:EOLunhyphen"/>uens maledictionem de<g ref="char:EOLhyphen"/>dit benedictionem / &amp; co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>funde<g ref="char:cmbAbbrStroke">̄</g>s mortem donauit nobis vitam sempiter<g ref="char:EOLhyphen"/>nam. Dilexisti iusti<g ref="char:EOLunhyphen"/>tiam et odisti iniquitatem.</p>
                <p>Propterea vnxit te deꝰ deue tuus oleo letitie pre consortibꝰ tuis.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -18713,7 +18899,9 @@ saluemur. Per eunde<g ref="char:cmbAbbrStroke">̄</g> dn<g ref="char:cmbAbbrStro
                      <desc>〈…〉</desc>
                   </gap>
                </head>
-               <figure/>
+               <p>
+                  <pb n="clj" facs="tcp:5816:149"/>
+                  <figure/>DIxit dn<g ref="char:cmbAbbrStroke">̄</g>s dn<g ref="char:cmbAbbrStroke">̄</g>o meo: sede a dextrꝭ meis. Donec ponam inimicos tuos: scabellum pedum tuorum.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -19711,7 +19899,9 @@ molesti estis &amp; deo meo? Propter hoc dabit domi<g ref="char:EOLhyphen"/>nus 
                      <desc>•••</desc>
                   </gap> hore dul<g ref="char:EOLhyphen"/>cissimi nominis Iesu.</head>
                <p>Salutem mentis &amp; corporis donet nobis iesus sa<g ref="char:EOLhyphen"/>pientia patris. Amen.</p>
-               <figure/>
+               <p>
+                  <pb facs="tcp:5816:156"/>
+                  <figure/>Domi<g ref="char:cmbAbbrStroke">̄</g>e la<g ref="char:EOLunhyphen"/>bia mea a<g ref="char:EOLhyphen"/>peries.</p>
                <p>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
